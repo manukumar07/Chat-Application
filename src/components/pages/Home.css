@@ -1,0 +1,17 @@
+.home{
+    background-color: #a7bcFf;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 65%;
+    height: 80%;
+    display: flex;
+    overflow: hidden;
+}
+
+ /* sidebar css */
